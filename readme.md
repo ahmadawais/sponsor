@@ -28,12 +28,12 @@ Or you can back me by checking out my super fun video courses. You can either bu
 ### [NodeCLI.com][ncli] — Learn to build Node.js CLI Automation
 
 After building hundreds of developer automation tools used by millions of developers, I am sharing exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript based CLI (Command Line Interface) apps. Automate the grunt work, do more in less time, impress your manager, and help the community.
-→ I'm sharing it all in this online video course. <a href="https://nodecli.com/?utm_source=FOSS" target="_blank">Node CLI Automation
+→ I'm sharing it all in this online video course. <a href="https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor" target="_blank">Node CLI Automation
 without wasting a 1,000 hours</a> →</p>
 
-<a href="https://nodecli.com/?utm_source=FOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/nodecli/featured.jpg" /><br><strong>Node CLI</strong></a>
+<a href="https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/nodecli/featured.jpg" /><br><strong>Node CLI</strong></a>
 
-[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=488640&style=flat)](https://nodecli.com/?utm_source=FOSS)
+[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=488640&style=flat)](https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor)
 
 <br>
 
@@ -43,11 +43,11 @@ without wasting a 1,000 hours</a> →</p>
 
 ### [VSCode.pro][vsc] — VSCode Power User Course
 
-As developers, we spend over 200 Hrs/month with our code editors — it's only fair to learn your next editor deeply. This course will save you 15-20 hours every month.  <a href="https://vscode.pro/?utm_source=FOSS" target="_blank">Become a VSCode Power User</a> →</p>
+As developers, we spend over 200 Hrs/month with our code editors — it's only fair to learn your next editor deeply. This course will save you 15-20 hours every month.  <a href="https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor" target="_blank">Become a VSCode Power User</a> →</p>
 
-<a href="https://vscode.pro/?utm_source=FOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br><strong>VSCODE</strong></a>
+<a href="https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br><strong>VSCODE</strong></a>
 
-[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=FOSS)
+[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor)
 
 <br>
 
@@ -65,5 +65,5 @@ As developers, we spend over 200 Hrs/month with our code editors — it's only f
 
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
-[vsc]: https://vscode.pro/?utm_source=FOSS
-[ncli]: https://nodecli.com/?utm_source=FOSS
+[vsc]: https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor
+[ncli]: https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor
