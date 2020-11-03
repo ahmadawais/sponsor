@@ -2,8 +2,11 @@
 
 👋 Hello, I'm [Awais](https://twitter.com/MrAhmadAwais/). Nice to meet you. Now let me introduce myself in 3rd person. Weird. ;)
 
-> [Awais](https://twitter.com/MrAhmadAwais/) is an award-winning open-source engineer and developer advocate. Author of various [open-source](https://github.com/AhmadAwais) dev-tools and software libraries used by millions of developers worldwide. Leading developers and publishing technical content for over a decade. Self-confessed tech comedian cracking silly jokes in the JavaScript web and cloud communities.
+<blockquote>
+<p><a href="https://twitter.com/MrAhmadAwais/">Ahmad Awais</a> is an award-winning open-source engineer​,​ Google Developers Expert ​Dev Advocate, Node.js Community Committee Outreach Lead, WordPress Core​ Dev​, and VP ​of ​Engineering​ DevRel​ at WGA. He has authored various open-source software tools used by millions of developers worldwide. Like his <a href="https://ShadesOfPurple.pro/more">Shades of Purple</a> code-theme​ or projects like the​ <a href="https://github.com/AhmadAwais/corona-cli">corona-cli</a>​.</p>
 
+<p>​Awais ​loves to teach. Over 20,000 developers are learning from his courses ​i.e. <a href="https://NodeCLI.com/?utm_medium=referral&amp;utm_campaign=speaking">NodeCLI.com</a>, <a href="https://VSCode.pro/?utm_medium=referral&amp;utm_campaign=speaking">VSCode.pro</a>,​ <a href="https://NextjsBeginner.com/?utm_medium=referral&amp;utm_campaign=speaking">NextjsBeginner.com</a>​​. He has spoken at 100+ tech conferences including TEDx, ReactLive, Node Summit, Google Dev Summit, Next.js Conf. ​Awais received FOSS community leadership recognition as one of the 12 featured <a href="https://ahmadawais.com/github-stars/">GitHub Stars</a>. ​He is a member of the SmashingMagazine Experts Panel; featured &amp; published author at CSS-Tricks, Tuts+, Scotch.io, SitePoint. You can mostly find ​him on Twitter <a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a> where he tweets his <a href="https://Awais.dev/odmt">#OneDevMinute</a> developer tips.​</p>
+</blockquote>
 <br>
 
 [![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](./../../)
