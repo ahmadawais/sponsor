@@ -1,11 +1,13 @@
 # Sponsor Open Source Software
 
-👋 Hello, I'm [Awais](https://twitter.com/MrAhmadAwais/). Nice to e-meet you. Now let me introduce myself in 3rd person. Weird. ;)
+👋 Hello, I'm [Awais](https://twitter.com/MrAhmadAwais/). Nice to e-meet you. If you or your company have been benefiting from any of my projects or simply appreciate the awesomeness, I bring to the table, why not consider backing me up? I'm committed to sticking around for the long haul, tirelessly advocating for open-source development.
+
+> Now, brace yourself for an introduction in the glorious 3rd person. Weird? Ahem, absolutely (who says we have to be ordinary). ;)
 
 <blockquote>
-<p><a href="https://twitter.com/MrAhmadAwais/">Ahmad Awais</a> is an award-winning open-source engineer,​ VP of Developer Relations (DevRel & DX), and proud founding Google Developers Advisory Board member, Node.js Community Committee Outreach Lead, WordPress Core​ Dev​, and previously, CMO, Ex-VP ​of ​Engineering​​ at WGA. He has authored various open-source software tools used by millions of developers worldwide. Like his <a href="https://ShadesOfPurple.pro/more">Shades of Purple</a> code-theme​ or projects like the​ <a href="https://github.com/AhmadAwais/corona-cli">corona-cli</a>​.</p>
+<p><a href="https://twitter.com/MrAhmadAwais/">Ahmad Awais</a> is an award-winning open-source engineer,​ VP of Developer Relations (DevRel & DX), and proud founding Google Developers Advisory Board member, Node.js Community Committee Outreach Lead, WordPress Core​ Dev, and previously, CMO, Ex-VP ​of ​Engineering​​ at WGA. He has authored various open-source software tools used by millions of developers worldwide. Like his <a href="https://ShadesOfPurple.pro/more">Shades of Purple</a> code-theme​ or projects like the​ <a href="https://github.com/AhmadAwais/corona-cli">corona-cli</a>​.</p>
 
-<p>​Awais ​loves to teach. Over 20,000 developers are learning from his courses ​i.e. <a href="https://NodeCLI.com/?utm_medium=referral&amp;utm_campaign=speaking">NodeCLI.com</a>, <a href="https://VSCode.pro/?utm_medium=referral&amp;utm_campaign=speaking">VSCode.pro</a>,​ <a href="https://NextjsBeginner.com/?utm_medium=referral&amp;utm_campaign=speaking">NextjsBeginner.com</a>​​. He has spoken at 100+ tech conferences, including TEDx, ReactLive, Node Summit, Google Dev Summit, Next.js Conf. ​Awais received FOSS community leadership recognition as one of the 12 featured <a href="https://ahmadawais.com/github-stars/">GitHub Stars</a>. ​He is a member of the Smashing Magazine Experts Panel; featured &amp; published author at CSS-Tricks, Tuts+, Scotch.io, SitePoint. You can mostly find ​him on Twitter <a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a> where he tweets his <a href="https://Awais.dev/odmt">#OneDevMinute</a> developer tips.​</p>
+<p>​Awais ​loves to teach. Over 20,000 developers are learning from his courses ​i.e. <a href="https://NodeCLI.com/?utm_medium=referral&amp;utm_campaign=speaking">NodeCLI.com</a>, <a href="https://VSCode.pro/?utm_medium=referral&amp;utm_campaign=speaking">VSCode.pro</a>,​ <a href="https://NextjsBeginner.com/?utm_medium=referral&amp;utm_campaign=speaking">NextjsBeginner.com</a>​​. He has spoken at <a href="https://Awais.dev/talks">100+ tech conferences</a>, including TEDx, ReactLive, Node Summit, Google Dev Summit, Next.js Conf. ​Awais received FOSS community leadership recognition as one of the 12 featured <a href="https://ahmadawais.com/github-stars/">GitHub Stars</a>. ​He is a member of the Smashing Magazine Experts Panel; featured &amp; published author at CSS-Tricks, Tuts+, Scotch.io, SitePoint. You can mostly find ​him on Twitter <a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a> where he tweets his <a href="https://Awais.dev/odmt">#OneDevMinute</a> developer tips.​</p>
 </blockquote>
 <br>
 
@@ -13,7 +15,20 @@
 
 ## Sponsor
 
-Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell in love with open source and then with each other. You can read more [about me here](https://ahmadawais.com/about). If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.
+If you or your company have been benefiting from any of my projects or simply appreciate the awesomeness, I bring to the table, why not consider backing me up? I'm committed to sticking around for the long haul, tirelessly advocating for open-source development.
+
+Now, I don't want to sound too authoritative or anything, but your support would mean the world to me. I mean, who wouldn't want to help a talented and passionate developer like myself, right? Plus, by backing me, you'll play a crucial role in enabling me to continue doing what I do best – creating amazing projects that make a real difference.
+
+But hey, I'm not just here to make demands. I genuinely want to foster a friendly and humble relationship with all the awesome folks out there who believe in the power of open-source. So, if you're on board with my vision and want to join this exciting journey, I'll be eternally grateful for your support.
+
+Remember, every little bit counts! Whether it's a small contribution or a generous sponsorship, your support ensures that I can keep pushing the boundaries of innovation and continue being an advocate for open-source development. Together, we can make the tech world a better place.
+
+Thanks for considering backing me up. Let's embark on this adventure together, shall we?
+
+
+I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell head over heels for open source, and then, as fate would have it, for each other. You can read more [about me here](https://ahmadawais.com/about). Now, listen up! If you or your company are utilizing any of our projects or simply adore what I'm doing (who wouldn't?), it's time to put your money where your mouth is. Consider backing me, my friend, because I'm here to stay. I'm not just any developer, mind you—I'm the advocate that will fight for your right to amazing software. 
+
+So, what do you say? Let's make this partnership a legendary one!
 
 - 🌟  [**$9.99/month (recommended)** ❯ FOSS License (commercial project) per month →](https://pay.paddle.com/checkout/540217)
 - 🚀  [**$99.99 (one-time fee)** ❯ PLATINUM LICENSE (commercial project) →](https://pay.paddle.com/checkout/515568)
@@ -71,3 +86,4 @@ As developers, we spend over 200 Hrs/month with our code editors — it's only f
 
 [vsc]: https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor
 [ncli]: https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor
+[sponsor]: https://github.com/AhmadAwais/sponsor
