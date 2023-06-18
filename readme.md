@@ -2,7 +2,7 @@
 
 👋 Hello, I'm [Awais](https://twitter.com/MrAhmadAwais/). Nice to e-meet you. If you or your company have been benefiting from any of my projects or simply appreciate the awesomeness, I bring to the table, why not consider backing me up? I'm committed to sticking around for the long haul, tirelessly advocating for open-source development.
 
-> Now, brace yourself for an introduction in the glorious 3rd person. Weird? Ahem, absolutely (who says we have to be ordinary). ;)
+_Now, brace yourself for an introduction in the glorious 3rd person. Weird? Ahem, absolutely (who says we have to be ordinary). ;)_
 
 <blockquote>
 <p><a href="https://twitter.com/MrAhmadAwais/">Ahmad Awais</a> is an award-winning open-source engineer,​ VP of Developer Relations (DevRel & DX), and proud founding Google Developers Advisory Board member, Node.js Community Committee Outreach Lead, WordPress Core​ Dev, and previously, CMO, Ex-VP ​of ​Engineering​​ at WGA. He has authored various open-source software tools used by millions of developers worldwide. Like his <a href="https://ShadesOfPurple.pro/more">Shades of Purple</a> code-theme​ or projects like the​ <a href="https://github.com/AhmadAwais/corona-cli">corona-cli</a>​.</p>
