@@ -53,7 +53,7 @@ without wasting a 1,000 hours</a> →</p>
 
 [![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=488640&style=flat)](https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor)
 
-<be>
+<br>
 
 ![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only)
 ![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only)
