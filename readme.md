@@ -55,8 +55,8 @@ without wasting a 1,000 hours</a> →</p>
 
 <br>
 
-[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only)](/)
-[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only)](/)
+[hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only)
+[hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only)
 
 <br>
 
