@@ -1,11 +1,11 @@
 # Sponsor Open Source Software
 
-👋 Hello, I'm [Awais](https://twitter.com/MrAhmadAwais/). Nice to meet you. Now let me introduce myself in 3rd person. Weird. ;)
+👋 Hello, I'm [Awais](https://twitter.com/MrAhmadAwais/). Nice to e-meet you. Now let me introduce myself in 3rd person. Weird. ;)
 
 <blockquote>
-<p><a href="https://twitter.com/MrAhmadAwais/">Ahmad Awais</a> is an award-winning open-source engineer​,​ Google Developers Expert ​Dev Advocate, Node.js Community Committee Outreach Lead, WordPress Core​ Dev​, and VP ​of ​Engineering​ DevRel​ at WGA. He has authored various open-source software tools used by millions of developers worldwide. Like his <a href="https://ShadesOfPurple.pro/more">Shades of Purple</a> code-theme​ or projects like the​ <a href="https://github.com/AhmadAwais/corona-cli">corona-cli</a>​.</p>
+<p><a href="https://twitter.com/MrAhmadAwais/">Ahmad Awais</a> is an award-winning open-source engineer,​ VP of Developer Relations (DevRel & DX), and proud founding Google Developers Advisory Board member, Node.js Community Committee Outreach Lead, WordPress Core​ Dev​, and previously, CMO, Ex-VP ​of ​Engineering​​ at WGA. He has authored various open-source software tools used by millions of developers worldwide. Like his <a href="https://ShadesOfPurple.pro/more">Shades of Purple</a> code-theme​ or projects like the​ <a href="https://github.com/AhmadAwais/corona-cli">corona-cli</a>​.</p>
 
-<p>​Awais ​loves to teach. Over 20,000 developers are learning from his courses ​i.e. <a href="https://NodeCLI.com/?utm_medium=referral&amp;utm_campaign=speaking">NodeCLI.com</a>, <a href="https://VSCode.pro/?utm_medium=referral&amp;utm_campaign=speaking">VSCode.pro</a>,​ <a href="https://NextjsBeginner.com/?utm_medium=referral&amp;utm_campaign=speaking">NextjsBeginner.com</a>​​. He has spoken at 100+ tech conferences including TEDx, ReactLive, Node Summit, Google Dev Summit, Next.js Conf. ​Awais received FOSS community leadership recognition as one of the 12 featured <a href="https://ahmadawais.com/github-stars/">GitHub Stars</a>. ​He is a member of the SmashingMagazine Experts Panel; featured &amp; published author at CSS-Tricks, Tuts+, Scotch.io, SitePoint. You can mostly find ​him on Twitter <a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a> where he tweets his <a href="https://Awais.dev/odmt">#OneDevMinute</a> developer tips.​</p>
+<p>​Awais ​loves to teach. Over 20,000 developers are learning from his courses ​i.e. <a href="https://NodeCLI.com/?utm_medium=referral&amp;utm_campaign=speaking">NodeCLI.com</a>, <a href="https://VSCode.pro/?utm_medium=referral&amp;utm_campaign=speaking">VSCode.pro</a>,​ <a href="https://NextjsBeginner.com/?utm_medium=referral&amp;utm_campaign=speaking">NextjsBeginner.com</a>​​. He has spoken at 100+ tech conferences, including TEDx, ReactLive, Node Summit, Google Dev Summit, Next.js Conf. ​Awais received FOSS community leadership recognition as one of the 12 featured <a href="https://ahmadawais.com/github-stars/">GitHub Stars</a>. ​He is a member of the Smashing Magazine Experts Panel; featured &amp; published author at CSS-Tricks, Tuts+, Scotch.io, SitePoint. You can mostly find ​him on Twitter <a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a> where he tweets his <a href="https://Awais.dev/odmt">#OneDevMinute</a> developer tips.​</p>
 </blockquote>
 <br>
 
@@ -26,11 +26,11 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 ## Support by Learning
 
-Or you can back me by checking out my super fun video courses. You can either buy yourself, share in your company Slack, or reach out for student or bulk teams discounts. I also offer purchasing power parity discounts to 149 different countries right on the course pages.
+Or you can back me up by checking out my super fun video courses. You can either buy yourself, share in your company Slack or reach out for student or bulk team discounts. I also offer purchasing power parity discounts to 149 countries on the course pages.
 
 ### [NodeCLI.com][ncli] — Learn to build Node.js CLI Automation
 
-After building hundreds of developer automation tools used by millions of developers, I am sharing exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript based CLI (Command Line Interface) apps. Automate the grunt work, do more in less time, impress your manager, and help the community.
+After building hundreds of developer automation tools used by millions of developers, I am sharing exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript-based CLI (Command Line Interface) apps. Automate the grunt work, do more in less time, impress your manager, and help the community.
 → I'm sharing it all in this online video course. <a href="https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor" target="_blank">Node CLI Automation
 without wasting a 1,000 hours</a> →</p>
 
