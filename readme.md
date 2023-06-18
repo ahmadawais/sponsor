@@ -69,9 +69,5 @@ As developers, we spend over 200 Hrs/month with our code editors — it's only f
 </div>
 
 
-<br>
-
-[![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
-
 [vsc]: https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor
 [ncli]: https://nodecli.com/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=GitHub-Repo-Sponsor
