@@ -15,7 +15,7 @@ _Now, brace yourself for an introduction in the glorious 3rd person. Weird? Ahem
 
 ## Sponsor
 
-If you or your company have been benefiting from any of my projects or simply appreciate the awesomeness, I bring to the table, why not consider backing me up? I'm committed to sticking around for the long haul, tirelessly advocating for open-source development.
+I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell head over heels for open source, and then, as fate would have it, for each other. You can read more [about me here](https://ahmadawais.com/about). Now, listen up! If you or your company are utilizing any of our projects or simply adore what I'm doing (who wouldn't?), it's time to put your money where your mouth is. Consider backing me, my friend, because I'm here to stay. I'm not just any developer, mind you—I'm the advocate that will fight for your right to amazing software. :)
 
 Now, I don't want to sound too authoritative or anything, but your support would mean the world to me. I mean, who wouldn't want to help a talented and passionate developer like myself, right? Plus, by backing me, you'll play a crucial role in enabling me to continue doing what I do best – creating amazing projects that make a real difference.
 
@@ -24,9 +24,6 @@ But hey, I'm not just here to make demands. I genuinely want to foster a friendl
 Remember, every little bit counts! Whether it's a small contribution or a generous sponsorship, your support ensures that I can keep pushing the boundaries of innovation and continue being an advocate for open-source development. Together, we can make the tech world a better place.
 
 Thanks for considering backing me up. Let's embark on this adventure together, shall we?
-
-
-I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell head over heels for open source, and then, as fate would have it, for each other. You can read more [about me here](https://ahmadawais.com/about). Now, listen up! If you or your company are utilizing any of our projects or simply adore what I'm doing (who wouldn't?), it's time to put your money where your mouth is. Consider backing me, my friend, because I'm here to stay. I'm not just any developer, mind you—I'm the advocate that will fight for your right to amazing software. 
 
 So, what do you say? Let's make this partnership a legendary one!
 
